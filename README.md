@@ -4,4 +4,4 @@
 
 
 LANGUAGES USED =>
- 	![C logo](./C_logo.svg)
+ 	![C logo](./C_logo.png)
